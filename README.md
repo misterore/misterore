@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @misterore
-- 👀 I’m interested in Web development
+- 👀 I’m interested in being a software developer
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web dev projects
+- 💞️ I’m looking to collaborate on Software developmen projects 
 - 📫 How to reach me twitter:@misterore, email:ijamoaina@gmail.comm
 
 <!---
